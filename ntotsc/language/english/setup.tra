@@ -393,7 +393,7 @@ STATISTICS:
 
 Armor Class: 3
 Special: 
-– +15% Find Traps
+â€“ +15% Find Traps
 - +15% Move Silently
 - +15% Open Locks
 - +15% Pick Pockets
@@ -698,7 +698,7 @@ Not Usable By:
  Monk~
 /*
 @177  = ~Questing Staff +3~
-@178  = ~Questing staves were originally created in some other realm, but they have found their way to Faerûn. They are usually filled with spells that provide some protection like warding against certain elements, or grant either entrance or egress, or bestow the wielder with simple knowledge. This particular staff casts Knock, Detect Evil, Cure Critical Wounds, and Raise Dead, each at least once per day. Moreover, it provides protection from fire like the ring of that name and increases resistance against magic.
+@178  = ~Questing staves were originally created in some other realm, but they have found their way to FaerÃ»n. They are usually filled with spells that provide some protection like warding against certain elements, or grant either entrance or egress, or bestow the wielder with simple knowledge. This particular staff casts Knock, Detect Evil, Cure Critical Wounds, and Raise Dead, each at least once per day. Moreover, it provides protection from fire like the ring of that name and increases resistance against magic.
 
 STATISTICS:
 
@@ -798,7 +798,7 @@ Not Usable By:
  Mage~
 /*
 @192  = ~Morridin's Sword~
-@194  = ~Morridin was the subject of many a joke about his sword. Many jested that such a little man could not wield such a large sword. However those who laughed didn’t laugh long or ever again due to the deadly accuracy and deftness with which Morridin handled his blade.
+@194  = ~Morridin was the subject of many a joke about his sword. Many jested that such a little man could not wield such a large sword. However those who laughed didnâ€™t laugh long or ever again due to the deadly accuracy and deftness with which Morridin handled his blade.
 
 STATISTICS:
 
@@ -988,12 +988,12 @@ This spell brings forth a thin, smoky cloud that fills the area of effect and in
 @273  = ~Keelor~
 @277  = ~Koldar~
 @278  = ~Krestian~
-@280  = ~Legion~
+@280  = ~Legian~
 @281  = ~Lenore~
 @302  = ~Llindellyn~
 @303  = ~Lucretia~
 @304  = ~Magnad~
-@305  = ~Mariel~
+@305  = ~Mariella~
 @306  = ~Milea~
 @308  = ~Praised be the blessed knowledge of Oghma.~ [MONKS01]
 @309  = ~~ [MONKS05]
